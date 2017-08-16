@@ -2,7 +2,7 @@
 
 This is a really simple testserver for cgi scripts. 
 
-Reasons for building such a crappy tool: I need to debug cgi scripts without spinning up a server every time
+Reasons for building such a crappy tool: I need to debug cgi scripts without spinning up a server every time  
 Reasons for releasing such a crappy tool: It might save you an hour
 
 Features:
@@ -20,11 +20,11 @@ rackup
 
 ### FAQ (not really, i don't get any questions)
 
-*"I used it in production and my server got hacked"*
+*"I used it in production and my server got hacked"*  
 Serves you right for not reading.
 
-*"Will you make it less crappy"*
+*"Will you make it less crappy"*  
 Only if i see a need or got time to spare
 
-*"What if i make it less crappy for you?"*
+*"What if i make it less crappy for you?"*  
 Submit a pull request and i'll probably accept it.
